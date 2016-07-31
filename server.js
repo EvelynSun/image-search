@@ -23,9 +23,7 @@ var router = require('./routes/index.js')
 var api = require('./api/index.js')
 
 //read .env file
-require('dotenv').config({
-    slient:true
-})
+require('dotenv').config({silent: true})
 //set the view engine
 app.set('view engine','jade');
 app.set('views', path.join(__dirname,'views'));
