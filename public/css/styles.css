@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+  background-color: purple;
+}
+
+body {
+  color: #fff;
+  text-align: center;
+  font-family: 'Open Sans',sans-serif;
+}
+
+div{
+  
+  margin: 0 auto;
+  width:900px;
+}
+
+ul,p {
+  text-align:left;
+  font-size:18px;
+}
