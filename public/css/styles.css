@@ -20,3 +20,11 @@ ul,p {
   text-align:left;
   font-size:18px;
 }
+
+p{
+  text-indent: 2em
+}
+a{
+  color: lightyellow;
+  
+}
